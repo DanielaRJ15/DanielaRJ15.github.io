@@ -1,0 +1,22 @@
+*{
+  background-color: linen;
+}
+html{
+  text-align: left;
+}
+h1{
+  color: cadetblue;
+}
+h2{
+  color: darkcyan ;
+}
+p{
+  font-size: 20px;
+  font-style: oblique;
+}
+footer{
+  color: midnightblue;
+}
+#boton{
+  background-color: lightgoldenrodyellow;
+}
