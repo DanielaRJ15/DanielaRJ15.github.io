@@ -30,3 +30,12 @@ function valida(cond, mensaje) {
    throw new Error(salida.value = mensaje);
   }
 }
+firebase.initializeApp({
+  apiKey: "AIzaSyAzYapL1IAog4GPQmUFqE2MJrzhmvoz02Q",
+  authDomain: "pwautentificacion-d70db.firebaseapp.com",
+  projectId: "pwautentificacion-d70db",
+  storageBucket: "pwautentificacion-d70db.appspot.com",
+  messagingSenderId: "71529552535",
+  appId: "1:71529552535:web:e8a1916e7ff2a9ce5367d2",
+  measurementId: "G-JRZDPY4FWF"
+    });
